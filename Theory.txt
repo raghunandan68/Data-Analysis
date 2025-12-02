@@ -1,0 +1,4 @@
+Types of statistics : 1)Descriptive 2)Inferential
+Terms in statistics : 1)Population 2)Sample 3)Variable 4)Data 5)Parameter 6)Statistic
+Measures in Central tendency and Measures in dispersion
+Sampling methods : 1)Simple random sampling
